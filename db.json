@@ -44,6 +44,24 @@
       "date": "2019-02-02T23:27:00.000Z",
       "time": "1:00",
       "attendees": []
+    },
+    {
+      "id": 2603351,
+      "user": {
+        "id": "abc123",
+        "name": "Max Novikov"
+      },
+      "organizer": {
+        "id": "abc123",
+        "name": "Max Novikov"
+      },
+      "category": "food",
+      "title": "Kiyv food market",
+      "description": "Kiyv food market Kiyv food market Kiyv food market",
+      "location": "Kiyv",
+      "date": "2019-11-30T14:03:00.000Z",
+      "time": "10:00",
+      "attendees": []
     }
   ]
 }
