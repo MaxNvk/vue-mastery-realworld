@@ -231,6 +231,42 @@
       "date": "",
       "time": "5:00",
       "attendees": []
+    },
+    {
+      "id": 8255684,
+      "user": {
+        "id": "abc123",
+        "name": "Max"
+      },
+      "organizer": {
+        "id": "abc123",
+        "name": "Max"
+      },
+      "category": "",
+      "title": "SUCCESS",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 2454441,
+      "user": {
+        "id": "abc123",
+        "name": "Max"
+      },
+      "organizer": {
+        "id": "abc123",
+        "name": "Max"
+      },
+      "category": "",
+      "title": "SUCCESS!!!",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
     }
   ]
 }
